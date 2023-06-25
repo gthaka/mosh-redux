@@ -1,0 +1,23 @@
+{
+  "name": "mosh-redux",
+  "version": "1.0.0",
+  "description": "redux intro by mosh",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "mosh",
+    "redux"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
